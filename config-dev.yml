@@ -1,2 +1,2 @@
-config
-  info: "master springcloud dev"
+config:
+  info: master springcloud dev
